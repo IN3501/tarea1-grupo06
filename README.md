@@ -1,5 +1,5 @@
-# tarea1-grupo06
-tarea1-grupo06 created by GitHub Classroom
+# Grupo06
+
 Hola, somos el grupo 6 y la empresa que seleccionamos se llama Evoli, es una empresa familiar y está dedicada a la fabricación y 
 venta de jabones de glicerina. La principal ventaja que tiene comparada a los jabones que hay en el mercado es que los jabones
 no están elaborados a partir de grasa animal, no cuentan con ninguna materia prima de origen animal en realidad.
